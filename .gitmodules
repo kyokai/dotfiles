@@ -1,3 +1,6 @@
 [submodule "vim/.vim/pack/plugins/start/vim-surround"]
 	path = vim/.vim/pack/plugins/start/vim-surround
 	url = https://github.com/tpope/vim-surround.git
+[submodule "submodules/vim-multiple-cursors"]
+	path = submodules/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors
