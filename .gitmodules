@@ -4,3 +4,9 @@
 [submodule "submodules/vim-multiple-cursors"]
 	path = submodules/vim-multiple-cursors
 	url = https://github.com/terryma/vim-multiple-cursors
+[submodule "submodules/vim-surround"]
+	path = submodules/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "submodules/nerdtree"]
+	path = submodules/nerdtree
+	url = https://github.com/preservim/nerdtree.git
